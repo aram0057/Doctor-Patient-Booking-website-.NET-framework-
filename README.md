@@ -17,22 +17,6 @@ Frameworks/Libraries: Bootstrap (for responsive design)
 Installation
 Clone the repository:
 
-bash
-Copy code
-git clone https://github.com/yourusername/doctor-patient-booking-system.git
-Navigate to the project directory:
-
-bash
-Copy code
-cd doctor-patient-booking-system
-Restore the NuGet packages:
-
-bash
-Copy code
-dotnet restore
-Update the database connection string in appsettings.json.
-
-Run the application:
 
 bash
 Copy code
